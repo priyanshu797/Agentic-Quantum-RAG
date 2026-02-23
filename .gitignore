@@ -1,4 +1,5 @@
+chroma_db/
 .env
-__pycache__
-__init__.py
-README.md
+__pycache__/
+*.sqlite3
+*.bin
